@@ -17,7 +17,8 @@ Building real-world full-stack projects to strengthen my portfolio**
 
 - 📫 How to reach me **mohammedrammahux@gmail.com**
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1bOz6UI8JlVkiwXQf1841-tMOziH4vpid/view?usp=sharing](https://drive.google.com/file/d/1bOz6UI8JlVkiwXQf1841-tMOziH4vpid/view?usp=sharing)**
+- 📄 Know about my experiences **[https://drive.google.com/file/d/1eo3TSsF5R7PVtYurDZopakRoEUmNKSz5/view?usp=drivesdk]
+(https://drive.google.com/file/d/1eo3TSsF5R7PVtYurDZopakRoEUmNKSz5/view?usp=drivesdk)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
