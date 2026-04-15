@@ -2,7 +2,145 @@
 
 ### Software Engineer
 
-- 🔭 I'm currently working on **Expanding my skills in full-stack development using .NET for the backend and Angular for the frontend
+- 🔭 I'm currently working on **Expanding my skills in# 🚀 Mohammed Rammah  
+### .NET Backend Developer | Software Engineer  
+
+📍 Cairo, Egypt  
+📧 mohammedrammahux@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/muhmdramah)  
+💻 [GitHub](https://github.com/muhmdramah)  
+
+---
+
+## 👨‍💻 About Me  
+
+I’m a passionate **.NET Backend Developer** with hands-on experience building scalable web applications and RESTful APIs using **ASP.NET Core, C#, and SQL Server**.  
+
+I focus on writing **clean, maintainable code** following **SOLID principles and Clean Architecture**, and I enjoy turning complex business requirements into efficient backend solutions.  
+
+- 🎯 Strong foundation in backend development and system design  
+- ⚙️ Experienced with REST APIs, authentication, and database optimization  
+- 📈 Improved database performance by up to **90%** in real-world projects  
+- 🧠 Currently expanding into Angular & advanced architecture  
+
+---
+
+## 🛠️ Tech Stack  
+
+### 💡 Backend  
+- C#  
+- ASP.NET Core (MVC, Web API, Minimal APIs)  
+- Entity Framework Core (EF Core)  
+- LINQ  
+- SignalR  
+
+### 🗄️ Database  
+- Microsoft SQL Server  
+- Database Design (ERD, normalization)  
+
+### 🏗️ Architecture & Concepts  
+- OOP, Data Structures & Algorithms  
+- SOLID Principles  
+- Clean Architecture  
+- N-Tier Architecture  
+- Repository Pattern & Unit of Work  
+- Dependency Injection  
+- Microservices basics  
+
+### 🌐 Frontend  
+- HTML5, CSS3, Bootstrap  
+- JavaScript  
+- Angular *(in progress)*  
+
+### 🧰 Tools  
+- Git & GitHub  
+- Docker  
+- Postman  
+
+---
+
+## 📂 Projects  
+
+### 🛒 Ecobooksi – Full-Stack E-Commerce Platform  
+🔗 https://ecobooksi.runasp.net/  
+
+- Built a complete online bookstore with customer & admin systems  
+- Implemented N-Tier Architecture with Repository & Unit of Work  
+- Integrated JWT authentication & role-based authorization  
+- Automated deployment using GitHub Actions (CI/CD)  
+
+---
+
+### 🏥 Clinic Management System API  
+🔗 https://clinicms.runasp.net/swagger/index.html  
+
+- Developed REST API to manage doctors, patients, and appointments  
+- Implemented secure endpoints using JWT Authentication  
+- Optimized database operations with EF Core + Repository Pattern  
+
+---
+
+### 🛍️ QuickMart E-Commerce API  
+🔗 https://github.com/muhmdramah/QuickMart  
+
+- Designed scalable backend for an e-commerce system  
+- Applied Layered Architecture & Unit of Work  
+- Used Docker for local development  
+
+---
+
+### 🎬 Movies API  
+🔗 https://github.com/muhmdramah/MoviesApi  
+
+- Built secure Web API with JWT Authentication  
+- Applied Onion Architecture with DTOs & AutoMapper  
+- Tested endpoints using Postman  
+
+---
+
+## 💼 Experience  
+
+### Freelance .NET Developer *(2025 – Present)*  
+- Developed scalable web and desktop applications  
+- Built RESTful APIs and backend services  
+- Collaborated with clients to deliver tailored solutions  
+- Optimized performance and database efficiency  
+
+---
+
+## 🎓 Education & Training  
+
+- 🎓 Bachelor of Arts – Tanta University (2024)  
+- 💻 .NET Backend Internship – ITI  
+- 📚 Software Engineering Diploma – Helwan University *(ongoing)*  
+
+---
+
+## 📜 Certifications  
+
+- Database Fundamentals – MaharaTech  
+- Version Control with Git – Coursera  
+- C# Certificate – HackerRank  
+- Foundational C# – Microsoft / freeCodeCamp  
+- Problem Solving – HackerRank  
+
+---
+
+## 🌍 Languages  
+
+- Arabic: Native  
+- English: Professional  
+
+---
+
+## 🤝 Let’s Connect  
+
+I’m always open to:  
+- Backend development opportunities  
+- Freelance projects  
+- Collaboration on real-world systems  
+
+📩 Feel free to reach out or check out my repositories! full-stack development using .NET for the backend and Angular for the frontend
 Building personal projects to practice API integration, authentication, and responsive UI design**
 
 - 🌱 I'm currently learning **Full-Stack Development with .NET and Angular
