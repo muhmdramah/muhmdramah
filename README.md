@@ -1,8 +1,5 @@
 # Hi 👋, I'm Mohammed Rammah
 
-### Software Engineer
-
-- 🔭 I'm currently working on **Expanding my skills in# 🚀 Mohammed Rammah  
 ### .NET Backend Developer | Software Engineer  
 
 📍 Cairo, Egypt  
