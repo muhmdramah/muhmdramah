@@ -5,7 +5,6 @@
 📍 Cairo, Egypt  
 📧 mohammedrammahux@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/muhmdramah)  
-💻 [GitHub](https://github.com/muhmdramah)  
 
 ---
 
