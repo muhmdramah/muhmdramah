@@ -1,164 +1,98 @@
 # Hi 👋, I'm Mohammed Rammah
 
-### .NET Backend Developer | Software Engineer  
+### Software Testing Engineer | Quality Control Specialist  
 
-📍 Cairo, Egypt  
+📍 Giza, Egypt[cite: 1]  
 📧 mohammedrammahux@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/muhmdramah)  
-🔗 [WhatsApp](http://wa.me/+201098126757) 
+🔗 [WhatsApp](http://wa.me/+201098126757)  
 
 ---
 
 ## 👨‍💻 About Me  
 
-I’m a passionate **.NET Backend Developer** with hands-on experience building scalable web applications and RESTful APIs using **ASP.NET Core, C#, and SQL Server**.  
+I’m a detail-oriented **Software Test Engineer** with hands-on experience in manual, API, database, and mobile application testing[cite: 1]. Backed by a strong background as a .NET Backend Developer, I leverage my deep understanding of system architecture, RESTful APIs, and databases to bridge the gap between development and QA[cite: 1].  
 
-I focus on writing **clean, maintainable code** following **SOLID principles and Clean Architecture**, and I enjoy turning complex business requirements into efficient backend solutions.  
-
-- 🎯 Strong foundation in backend development and system design  
-- ⚙️ Experienced with REST APIs, authentication, and database optimization  
-- 📈 Improved database performance by up to **90%** in real-world projects  
-- 🧠 Currently expanding into Angular & advanced architecture  
+- 🎯 Certified ISTQB Foundation Level (CTFL v4.0) tester[cite: 2] with deep knowledge of testing techniques, test planning, and defect lifecycle.
+- ⚙️ Experienced in executing test cases, running exploratory testing[cite: 1], and writing comprehensive test documentation (Test Plans, Test Summary Reports, and Bug Reports)[cite: 1].
+- 📈 Strong technical background covering API testing (Postman), database querying (SQL Server), performance testing (JMeter), and Agile/Scrum methodologies[cite: 2].
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack & Testing Skills  
 
-### 💡 Backend  
-- C#  
-- ASP.NET Core (MVC, Web API, Minimal APIs)  
-- Entity Framework Core (EF Core)  
-- LINQ  
-- SignalR  
+### 🧪 Testing & Quality Assurance  
+- **Testing Types:** Manual Testing, Functional & Non-Functional Testing, Exploratory Testing[cite: 1], API Testing, Database Testing, Mobile Application Testing[cite: 1], Performance Testing (JMeter)[cite: 2]  
+- **Test Artifacts:** Test Plans, Test Scenarios, Test Cases, Defect Reports, Test Summary Reports[cite: 1]  
+- **Testing Tools:** Jira, Zephyr Scale[cite: 2], Trello[cite: 1], TestLink[cite: 1, 2], Postman[cite: 2], JMeter[cite: 2]  
 
-### 🗄️ Database  
-- Microsoft SQL Server  
-- Database Design (ERD, normalization)  
+### 💻 Development & Databases (Background)  
+- C#, C++, Java[cite: 2]  
+- ASP.NET Core, RESTful APIs[cite: 1]  
+- Microsoft SQL Server, LINQ, Entity Framework Core[cite: 2]  
+- Git, GitHub, Docker, Azure[cite: 2]  
 
-### 🏗️ Architecture & Concepts  
-- OOP, Data Structures & Algorithms  
-- SOLID Principles  
-- Clean Architecture  
-- N-Tier Architecture  
-- Repository Pattern & Unit of Work  
-- Dependency Injection  
-- Microservices basics  
-
-### 🌐 Frontend  
-- HTML5, CSS3, Bootstrap  
-- JavaScript  
-- Angular *(in progress)*  
-
-### 🧰 Tools  
-- Git & GitHub  
-- Docker  
-- Postman  
+### 🏗️ Methodologies & Concepts  
+- ISTQB Foundation Level (CTFL v4.0)[cite: 2]  
+- Agile Software Methodologies (Scrum, Kanban)[cite: 2]  
+- Software Development Life Cycle (SDLC) & Software Testing Life Cycle (STLC)  
 
 ---
 
-## 📂 Projects  
+## 📂 Testing Projects & Case Studies  
 
-### 🛒 Ecobooksi – Full-Stack E-Commerce Platform  
-🔗 https://ecobooksi.runasp.net/  
+### 🛒 Gazara – Grocery Mobile App | Manual Test Design[cite: 2]  
+- Analyzed functional requirements and designed 268 positive and negative test cases covering authentication, product search, cart, favorites, checkout, payments, and profile management[cite: 2].  
+- Documented test steps, test data, and expected results using **Zephyr Scale within Jira**[cite: 2].  
 
-- Built a complete online bookstore with customer & admin systems  
-- Implemented N-Tier Architecture with Repository & Unit of Work  
-- Integrated JWT authentication & role-based authorization  
-- Automated deployment using GitHub Actions (CI/CD)  
-
----
-
-### 🏥 Clinic Management System API  
-🔗 https://clinicms.runasp.net/swagger/index.html  
-
-- Developed REST API to manage doctors, patients, and appointments  
-- Implemented secure endpoints using JWT Authentication  
-- Optimized database operations with EF Core + Repository Pattern  
-
----
-
-### 🛍️ QuickMart E-Commerce API  
-🔗 https://github.com/muhmdramah/QuickMart  
-
-- Designed scalable backend for an e-commerce system  
-- Applied Layered Architecture & Unit of Work  
-- Used Docker for local development  
-
----
-
-### 🎬 Movies API  
-🔗 https://github.com/muhmdramah/MoviesApi  
-
-- Built secure Web API with JWT Authentication  
-- Applied Onion Architecture with DTOs & AutoMapper  
-- Tested endpoints using Postman  
+### 🍽️ Amazing Lunch Indicator – Restaurant Finder | Manual Test Design[cite: 2]  
+- Analyzed software requirements and designed approximately 457 positive and negative test scenarios covering user, restaurant owner, and administrator functionality (including authentication, search, and information management)[cite: 2].  
+- Organized and structured test scenarios using **Zephyr Scale within Jira**[cite: 2].  
 
 ---
 
 ## 💼 Experience  
 
-### Freelance .NET Developer *(2025 – Present)*  
-- Developed scalable web and desktop applications  
-- Built RESTful APIs and backend services  
-- Collaborated with clients to deliver tailored solutions  
-- Optimized performance and database efficiency  
+### Freelance Software Tester – uTest *(July 2026 – Present)*[cite: 1]  
+- Executed rigorous testing on various freelance projects for web and mobile platforms (websites, Android, and iOS applications) including platforms like Acast, Jopwell, and Homelight[cite: 1].  
+- Performed detailed test execution and exploratory testing to uncover critical UI/UX and functional defects[cite: 1].  
+
+### .NET Software Developer – Oodiepix *(February 2025 – June 2026)*[cite: 2]  
+- Developed and maintained applications following clean architecture principles[cite: 2].  
+- Leveraged technical knowledge to design robust backend solutions, optimize SQL queries using EF Core, and deploy applications using Azure services with CI/CD pipelines[cite: 2].  
 
 ---
 
 ## 🎓 Education & Training  
 
-- 🎓 Bachelor of Arts – Tanta University (2024)  
+- 🎓 Academic Diploma in Computer Science – Faculty of Graduate Studies for Statistical Research (FGSSR), Cairo University[cite: 2]  
+- 🎓 Bachelor of Arts (B.A.) in Mass Communication[cite: 2]  
 - 💻 .NET Backend Internship – ITI  
-- 📚 Software Engineering Diploma – Helwan University *(ongoing)*  
 
 ---
 
-## 📜 Certifications  
+## 📜 Certifications & Courses  
 
+- **ISTQB Certified Tester Foundation Level (CTFL v4.0)** (Certification Code: 260824031)[cite: 2]  
+- Your path to success in ISTQB Foundation Level V4.0 – Udemy[cite: 2]  
+- The Complete 2026 Software Testing Bootcamp – Udemy[cite: 2]  
 - Database Fundamentals – MaharaTech  
 - Version Control with Git – Coursera  
-- C# Certificate – HackerRank  
-- Foundational C# – Microsoft / freeCodeCamp  
-- Problem Solving – HackerRank  
 
 ---
 
 ## 🌍 Languages  
 
-- Arabic: Native  
-- English: Professional  
+- **Arabic:** Native[cite: 2]  
+- **English:** Intermediate B2[cite: 2]  
+- **German:** A1[cite: 2]  
 
 ---
 
 ## 🤝 Let’s Connect  
 
 I’m always open to:  
-- Backend development opportunities  
-- Freelance projects  
-- Collaboration on real-world systems  
+- Software Testing & Quality Assurance opportunities (Manual, Automation, API, or Mobile Testing)  
+- Collaboration on robust web and mobile systems  
 
-📩 Feel free to reach out or check out my repositories! full-stack development using .NET for the backend and Angular for the frontend
-Building personal projects to practice API integration, authentication, and responsive UI design**
-
-- 🌱 I'm currently learning **Full-Stack Development with .NET and Angular
-Building modern, responsive web applications
-Implementing RESTful APIs, authentication, and clean architecture**
-
-- 👯 I'm looking to collaborate on **.NET or Angular projects where I can apply and grow my full-stack development skills
-Open-source projects focused on web development, API design, or frontend frameworks**
-
-- 🤝 I'm looking for help with **Learning advanced .NET concepts, performance optimization, and clean code patterns
-Building real-world full-stack projects to strengthen my portfolio**
-
-- 📫 How to reach me **mohammedrammahux@gmail.com**
-
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1eo3TSsF5R7PVtYurDZopakRoEUmNKSz5/view?usp=drivesdk]**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/muhmdramah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="muhmdramah" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muhmdramah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhmdramah" height="30" width="40" /></a>
-</p>
-
-
-
+📩 Feel free to reach out via email at **mohammedrammahux@gmail.com** or connect with me on LinkedIn!
